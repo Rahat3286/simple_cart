@@ -53,3 +53,8 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+
+#message{
+	display: none;
+	margin-top: 50px;
+}
